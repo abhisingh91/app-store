@@ -6,6 +6,8 @@
 
 ✨ Explore the data and provide useful insights to the stakeholder (maybe for an indie App Developer)
 
+<br>
+
 ### Summary for Final Recommendations 
 
 - Can choose in top 3 genres by the number of apps ['Games'], ['Entertainment'], and ['Education']
@@ -35,7 +37,9 @@
 
 <br>
 
-🤝 I hope you find this useful. Also, you can contribute to the project by suggesting any changes or add-ons in the queries if possible.
+🤝 I hope you find this useful. 
+
+✨ You can also contribute to the project by suggesting any changes or add-ons in the queries if possible.
 
 #### Thank You! 
 
